@@ -1,0 +1,576 @@
+food_name,calories,protein,fat,carbs
+Cà phê Trung Nguyên (không đường),2,0.3,0.1,0
+Cà phê G7 (1 gói),70,1,1.5,14
+Trứng luộc,155,13,11,1
+Cơm trắng,200,4,1,40
+Bún đậu mắm tôm,250,12,10,30
+Rau muống luộc,20,2.2,0.3,3.1
+Rau muống xào tỏi,90,2.3,6.0,5.0
+Cải ngọt luộc,18,1.6,0.2,2.7
+Cải ngọt xào tỏi,85,1.7,5.5,6.5
+Cải thìa luộc,17,1.5,0.2,2.5
+Cải thìa xào tỏi,80,1.6,5.2,6.0
+Rau dền luộc,25,2.7,0.4,4.1
+Bắp cải luộc,23,1.3,0.1,5.3
+Bắp cải xào,75,1.5,4.5,7.0
+Su su luộc,16,0.8,0.1,3.5
+Su su xào,70,0.9,4.0,6.5
+Rau lang luộc,24,2.0,0.3,3.5
+Rau lang xào tỏi,85,2.1,5.8,5.5
+Đậu cô ve luộc,35,2.0,0.2,7.0
+Đậu cô ve xào,90,2.1,5.0,8.0
+Bánh tráng phơi sương,220,6,8,32
+Chả rươi,240,10,12,15
+Bánh khoai môn chiên,260,4,10,40
+Chè thập cẩm,190,3,2,38
+Lẩu cá kèo,200,15,6,20
+Bánh flan,150,4,5,25
+Đậu hũ luộc,76,8.0,4.2,1.9
+Đậu hũ rán,145,10.5,9.5,3.0
+Đậu hũ sốt cà chua,120,8.5,7.0,4.5
+Đậu hũ nhồi thịt sốt cà,160,10.0,10.0,5.0
+Đậu hũ non hấp hành,65,7.0,3.5,2.0
+Đậu phụ chiên giòn,180,11.0,12.0,4.0
+Đậu phụ om nấm,110,8.0,6.0,5.0
+Đậu trắng hầm cà chua,130,6.0,3.5,18.0
+Đậu đỏ ninh nhừ,127,8.7,0.5,23.0
+Đậu xanh hấp,115,7.5,0.6,20.1
+Cơm gà chiên mắm,320,15,12,40
+Bún suông,230,12,6,32
+Canh chua cá bông lau,150,12,4,15
+Bánh ít ram,180,4,5,30
+Chả ốc,200,10,8,15
+Xôi lá dứa,250,5,5,45
+Bánh mì ốp la,280,10,12,35
+Cơm sườn bì chả,300,14,12,40
+Bún riêu ốc,220,12,6,30
+Chè táo xọn,180,3,2,35
+Cá kho nghệ,260,18,12,10
+Bánh bò nướng,200,3,4,38
+Bún măng gà,230,12,6,32
+Canh cải xanh nấu tôm,100,6,2,15
+Bánh mì chảo,320,12,15,40
+Chè đậu trắng,190,4,2,38
+Thịt bò xào nấm rơm,240,16,10,15
+Bánh ướt lòng gà,200,10,5,28
+Canh bí xanh nấu tôm,120,6,2,15
+Bánh ram ít,180,4,5,30
+Xôi vò,250,5,5,45
+Bún cá ngừ,230,12,6,32
+Chè khoai môn,190,3,2,38
+Cá kho tộ chay,200,8,6,25
+Bánh mì kẹp thịt nguội,300,12,10,40
+Cơm chiên gà xé,280,12,10,40
+Bún chả nem,260,14,8,35
+Chè nếp gừng,180,3,2,35
+Thịt heo xào sả ớt,280,16,15,10
+Bánh bèo nhân tôm,150,5,3,25
+Canh chua lá me,120,6,2,15
+Bánh tráng cuốn thịt heo,220,10,8,30
+Xôi đậu đen,250,6,5,40
+Bún riêu cá,230,12,6,32
+Cháo bò,220,12,6,30
+Bánh mì chay,260,8,8,40
+Cơm chiên hải sản,300,12,10,40
+Bún bò xào sả,260,14,8,35
+Chè khúc bạch,180,3,2,35
+Cá chiên mắm gừng,260,18,12,10
+Bánh tét nhân mặn,240,6,8,35
+Canh rau dền nấu tôm,100,6,2,15
+Bánh xèo tôm thịt,240,8,14,25
+Bún măng chay,200,6,3,32
+Cháo sườn,220,10,6,30
+Bánh mì trứng,280,10,12,35
+Cơm tấm lòng heo,300,14,12,40
+Bún cá thu,230,12,6,32
+Chè sen long nhãn,190,4,2,38
+Thịt bò kho tàu,280,18,12,15
+Bánh ướt tôm chấy,200,8,5,30
+Canh cải cúc nấu tôm,120,6,2,15
+Bánh căn trứng,220,6,8,30
+Xôi ngô,250,5,5,45
+Bún cá lóc,230,12,6,32
+Chè đậu ngự,190,3,2,38
+Cá kho sả ớt,260,18,12,10
+Bánh tét nhân ngọt,240,4,5,40
+Cơm chiên mực,280,12,10,40
+Bún riêu cua chay,180,6,3,30
+Cháo nấm,200,6,3,32
+Bánh mì kẹp chả,300,12,10,40
+Canh khoai sọ nấu tôm,150,6,2,25
+Bánh khoai tây chiên,250,4,10,35
+Bún bò lá lốt,260,14,8,35
+Chè đậu xanh nha đam,190,3,2,38
+Thịt heo kho nghệ,280,16,15,10
+Bánh bèo chay,140,4,3,25
+Canh chua cá hú,150,12,4,15
+Bánh tráng nướng chay,200,5,8,30
+Xôi đậu đỏ,250,6,5,40
+Bún cá chép,230,12,6,32
+Cháo tôm,220,12,6,30
+Bánh mì thịt nướng,300,12,10,40
+Cơm chiên bò,280,12,10,40
+Bún chả cá chiên,260,14,8,35
+Chè sầu riêng,200,3,4,38
+Thịt bò xào giá,240,16,10,15
+Bánh ướt chay,180,6,3,30
+Canh cải ngọt nấu tôm,120,6,2,15
+Bánh căn chay,200,5,6,30
+Xôi dừa,250,5,6,45
+Bún măng khô,230,12,6,32
+Chè bưởi hạt sen,190,4,2,38
+Cá kho măng,260,18,12,10
+Bánh tét nhân chay,220,5,4,40
+Cơm chiên chay,260,8,8,40
+Bún riêu nấm,180,6,3,30
+Cháo đậu xanh,200,6,3,32
+Bánh mì kẹp trứng,280,10,12,35
+Canh rau ngót nấu tôm,100,6,2,15
+Bánh tráng mắm ruốc,220,5,8,30
+Cơm tấm chả trứng,300,12,12,40
+Bún bò giò heo,260,14,8,35
+Bánh mì bò kho,320,15,10,45
+Chè đậu xanh lá dứa,190,3,2,38
+Cá kho lá giang,250,18,10,10
+Bánh canh giò heo,240,12,8,30
+Canh rau muống nấu cá,120,8,3,15
+Bánh tráng cuốn bì,220,8,6,32
+Xôi chiên phồng,280,5,10,45
+Bún riêu tôm khô,230,12,6,32
+Cháo gà ác,220,12,6,30
+Bánh mì kẹp cá chiên,300,12,10,40
+Cơm chiên kim chi,280,8,10,40
+Bún chả giò chay,200,6,5,30
+Chè sương sáo,180,3,2,35
+Thịt heo kho măng,280,16,12,15
+Bánh ướt thịt quay,220,10,8,30
+Canh cải bẹ nấu tôm,120,6,2,15
+Bánh căn tôm,220,6,8,30
+Xôi nếp than,250,5,5,45
+Bún cá kho,230,12,6,32
+Chè đậu đỏ hạt sen,190,4,2,38
+Cá kho lá nghệ,260,18,12,10
+Bánh tét nhân đậu,240,5,5,40
+Cơm chiên lạp xưởng,300,10,12,40
+Bún riêu chay nấm,180,6,3,30
+Cháo huyết,200,8,5,30
+Bánh mì kẹp thịt xá xíu,300,12,10,40
+Canh khoai môn nấu sườn,150,6,3,25
+Bánh khoai môn hấp,220,4,5,40
+Bún bò xào hành cần,260,14,8,35
+Chè khoai lang tím,190,3,2,38
+Thịt bò kho sả,280,16,12,15
+Bánh bèo tôm chấy,150,5,3,25
+Canh chua cá lóc chay,120,6,2,15
+Bánh tráng nướng trứng,220,6,8,30
+Xôi đậu phộng,250,6,6,40
+Bún cá ngừ chiên,230,12,6,32
+Cháo tôm khô,220,10,5,30
+Bánh mì kẹp chả bò,300,12,10,40
+Cơm chiên cá khô,280,10,10,40
+Bún chả cá nướng,260,14,8,35
+Chè dừa non,200,3,4,38
+Thịt heo xào cải chua,240,16,10,15
+Bánh ướt chả cá,200,8,5,30
+Canh rau ngót nấu thịt,120,6,2,15
+Bánh căn mực,220,6,8,30
+Xôi gấc dừa,250,5,6,45
+Bún măng vịt chay,200,6,3,32
+Chè đậu ván lá dứa,190,3,2,38
+Cá kho mắm ruốc,260,18,12,10
+Bánh tét nhân trứng,240,6,8,35
+Cơm chiên chà bông,280,8,10,40
+Bún riêu cua đồng,230,12,6,32
+Cháo nấm rơm,200,6,3,32
+Bánh mì kẹp trứng muối,300,10,12,40
+Canh cải thìa nấu tôm,120,6,2,15
+Bánh khoai lang chiên,250,4,10,35
+Bún bò xào nghệ,260,14,8,35
+Chè bí đỏ,190,3,2,38
+Thịt bò kho tiêu,280,16,12,15
+Bánh bèo nhân nấm,140,4,3,25
+Canh chua măng,120,6,2,15
+Bánh tráng cuốn chay,200,5,6,30
+Xôi nếp cẩm,250,5,5,45
+Bún cá basa,230,12,6,32
+Cháo lòng chay,200,6,3,32
+Bánh mì kẹp thịt bò,300,12,10,40
+Cơm chiên nấm,260,8,8,40
+Bún chả cá lóc,260,14,8,35
+Chè dừa lá dứa,190,3,2,38
+Thịt heo kho trứng,300,16,15,15
+Bánh ướt tôm khô,200,8,5,30
+Canh cải ngọt nấu cá,120,6,2,15
+Bánh căn nấm,200,5,6,30
+Xôi đậu xanh dừa,250,6,6,40
+Bún cá rô,230,12,6,32
+Chè hạt sen nha đam,190,4,2,38
+Cá kho cà chua,260,18,12,10
+Bánh tét nhân thịt,240,6,8,35
+Cơm chiên trứng muối,280,8,10,40
+Bún riêu tôm chay,180,6,3,30
+Cháo sườn chay,200,6,3,32
+Bánh mì kẹp chả lụa,300,12,10,40
+Canh khoai sọ nấu thịt,150,6,3,25
+Bánh khoai tây hấp,220,4,5,40
+Bún bò xào sả ớt,260,14,8,35
+Chè đậu đỏ nha đam,190,3,2,38
+Thịt heo kho sả,280,16,12,15
+Bánh bèo nhân thịt,150,5,3,25
+Canh chua cá basa,150,12,4,15
+Bánh tráng nướng mực,220,6,8,30
+Xôi chiên trứng,280,6,10,40
+Bún cá chiên,230,12,6,32
+Cháo cá chép,220,12,6,30
+Bánh mì kẹp thịt quay,300,12,10,40
+Cơm chiên thập cẩm chay,260,8,8,40
+Bún chả nướng chay,200,6,5,30
+Chè khoai tía dừa,190,3,2,38
+Phở bò,250,15,8,30
+Bún chả,300,18,12,35
+Bánh mì thịt,350,12,15,45
+Cơm tấm sườn nướng,400,20,18,50
+Gỏi cuốn tôm,120,8,2,18
+Chả giò,200,10,12,15
+Bánh xèo,240,8,14,25
+Phở gà,230,14,7,28
+Bún bò Huế,280,16,10,32
+Mì Quảng,260,12,8,36
+Cao lầu,270,13,9,34
+Hủ tiếu nam vang,250,14,8,30
+Bánh cuốn,180,6,5,28
+Nem chua,150,10,8,10
+Chè đậu xanh,200,5,2,40
+Xôi gà,320,12,10,45
+Bò kho,300,20,15,20
+Cá kho tộ,280,18,12,15
+Canh chua cá lóc,150,12,5,10
+Cháo lòng,220,10,8,30
+Bún riêu cua,240,12,6,35
+Bánh bèo,140,4,3,25
+Bánh khoái,260,8,12,30
+Chè ba màu,180,3,1,38
+Lẩu mắm,200,15,8,15
+Gà luộc,165,25,5,0
+Thịt kho tàu,350,18,20,25
+Cơm gà Hải Nam,300,15,12,40
+Bánh chưng,250,8,10,35
+Bún nước lèo,220,10,6,32
+Canh khổ qua nhồi thịt,180,12,8,15
+Xôi gấc,300,6,8,50
+Nem rán,150,8,10,10
+Sườn xào chua ngọt,280,16,15,20
+Cá chiên giòn,250,18,12,5
+Bánh ướt thịt nướng,220,10,8,30
+Chè bưởi,180,2,1,40
+Bún thịt nướng,280,14,10,35
+Hủ tiếu khô,260,12,8,36
+Bánh tét,240,6,8,40
+Canh bún,230,10,6,35
+Bò lúc lắc,300,20,15,10
+Cơm chiên dương châu,280,12,10,40
+Bánh canh chả cá,220,10,6,32
+Chả cá Lã Vọng,260,18,12,15
+Mì xào bò,300,14,12,38
+Gỏi gà xé phay,180,15,5,10
+Chè khoai tía,200,3,2,42
+Bún ốc,210,10,5,32
+Cơm hến,220,12,6,35
+Bún thang,200,12,5,30
+Bánh đúc lạc,180,4,3,35
+Chả cốm,220,10,12,15
+Bánh tôm Hồ Tây,250,8,15,25
+Cơm rang thập cẩm,280,10,10,40
+Bánh tráng nướng,200,5,8,30
+Bún ốc chuối đậu,230,12,6,32
+Chè thái,190,3,2,40
+Lẩu thái,220,15,8,20
+Cá nục kho thơm,260,18,12,10
+Thịt bò xào cần tây,240,16,10,15
+Canh mướp nấu tôm,120,8,3,15
+Bánh bột lọc,150,5,2,28
+Bánh nậm,140,4,3,25
+Chả lụa,180,12,8,10
+Xôi xéo,250,6,8,40
+Bánh giò,200,8,6,30
+Cơm niêu,280,10,8,45
+Bún mọc,210,12,5,30
+Chè sương sa hạt lựu,180,2,1,38
+Gỏi sứa,150,10,3,15
+Cá lóc nướng trui,200,18,10,5
+Bánh ít lá gai,220,4,5,40
+Bún cá rô đồng,230,12,6,32
+Canh rau muống luộc,80,3,1,15
+Thịt heo quay,350,18,25,5
+Bánh trôi nước,200,3,2,40
+Cháo trai,180,8,4,28
+Bánh khoai mì nướng,250,4,6,45
+Cơm chiên cá mặn,300,12,12,40
+Bún chả cá,220,10,6,32
+Canh bầu nấu tôm,100,6,2,15
+Bánh canh cua,240,12,8,30
+Chè cốm,190,3,2,38
+Thịt kho dừa,320,16,20,15
+Bánh da lợn,200,4,5,35
+Bún mắm,230,12,6,32
+Cơm lam,250,6,5,45
+Bánh chưng rán,300,8,15,35
+Gỏi ngó sen tôm thịt,160,10,4,20
+Cá kho riềng,260,18,12,10
+Cháo vịt,220,10,6,30
+Bánh bò,180,3,2,35
+Chè đỗ đen,200,5,2,40
+Bún sườn chua,210,12,5,30
+Canh chua tôm,150,10,4,15
+Bánh rế,220,3,8,35
+Cơm cháy chà bông,280,8,10,40
+Bún tôm,230,12,6,32
+Chè bà ba,190,3,2,38
+Thịt bò kho gừng,280,18,12,15
+Bánh ít trần,160,4,3,30
+Canh riêu cá chép,180,12,6,15
+Bánh phồng tôm,200,5,8,30
+Xôi đậu xanh,250,6,5,40
+Bún măng vịt,220,12,6,30
+Chè chuối,180,3,2,35
+Cá chiên xù,260,18,12,10
+Bánh tằm bì,240,8,6,35
+Cơm gà xối mỡ,320,15,15,40
+Bánh cống,250,8,12,30
+Chè kho,200,3,2,40
+Bún kèn,230,12,6,32
+Canh sườn nấu sấu,180,12,6,15
+Bánh chuối hấp,200,3,2,38
+Cơm tấm bì,280,10,10,40
+Bún bò Nam Bộ,260,14,8,35
+Chè hạt sen,190,4,2,38
+Thịt heo kho trứng cút,300,16,15,20
+Bánh khoai lang,220,4,5,40
+Canh chua bắp chuối,120,6,2,18
+Bánh xèo chay,200,5,8,30
+Bún riêu tôm,230,12,6,32
+Cháo cá lóc,200,10,5,30
+Bánh mì chả cá,300,12,10,40
+Cơm chiên tôm,280,12,10,40
+Bún chả nướng,260,14,8,35
+Chè bắp,180,3,2,35
+Thịt bò xào hành tây,240,16,10,15
+Bánh ướt chả lụa,200,8,5,30
+Canh bí đỏ nấu tôm,120,6,2,15
+Bánh căn,220,6,8,30
+Xôi lá cẩm,250,5,5,45
+Bún mực,230,12,6,32
+Chè đậu ván,190,3,2,38
+Cá kho tiêu,260,18,12,10
+Bánh tét chuối,240,4,5,40
+Cơm chiên trứng,260,8,10,35
+Bún riêu chay,180,6,3,30
+Cháo lươn,220,12,6,30
+Bánh mì pate,320,10,15,40
+Canh khoai mỡ,150,4,2,25
+Bánh khoai chiên,250,4,10,35
+Bún bò xào,260,14,8,35
+Chè đậu đỏ,200,4,2,40
+Thịt heo kho tiêu,280,16,15,10
+Bánh bèo chén,140,4,3,25
+Canh chua rau muống,100,6,2,15
+Bánh tráng trộn,200,5,8,30
+Cơm gà rô ti,320,15,12,40
+Bún riêu cua bắp bò,240,12,6,32
+Bánh mì kẹp pa tê gan,300,10,12,40
+Chè đậu xanh nếp,190,4,2,38
+Cá kho chuối xanh,250,18,10,15
+Bánh canh tôm thịt,240,12,8,30
+Canh rau cải nấu cá,120,8,3,15
+Bánh tráng cuốn sườn nướng,220,10,8,30
+Xôi mặn,280,8,10,40
+Bún cá nướng,230,12,6,32
+Cháo đậu đỏ,200,6,3,32
+Bánh mì kẹp thịt gà,300,12,10,40
+Cơm chiên bò lúc lắc,280,12,10,40
+Bún chay nấm rơm,200,6,5,30
+Chè bắp nếp,180,3,2,35
+Thịt heo xào măng,260,16,10,15
+Bánh ướt bì,200,8,5,30
+Canh mồng tơi nấu tôm,100,6,2,15
+Bánh căn trứng cút,220,6,8,30
+Xôi nếp nương,250,5,5,45
+Bún cá lóc nướng,230,12,6,32
+Chè đậu đen lá dứa,190,4,2,38
+Cá kho dưa chua,260,18,12,10
+Bánh tét nhân chuối,240,4,5,40
+Cơm chiên tôm khô,280,10,10,40
+Bún riêu nấm chay,180,6,3,30
+Cháo nấm chay,200,6,3,32
+Bánh mì kẹp trứng ốp la,280,10,12,35
+Canh cải bẹ xanh nấu thịt,120,6,2,15
+Bánh khoai mì hấp,220,4,5,40
+Bún bò xào giá đỗ,260,14,8,35
+Chè khoai lang dừa,190,3,2,38
+Thịt bò xào sả ớt,280,16,12,15
+Bánh bèo nhân chả,150,5,3,25
+Canh chua lá giang,120,6,2,15
+Bánh tráng nướng chả cá,220,6,8,30
+Xôi đậu trắng,250,6,5,40
+Bún cá bống,230,12,6,32
+Cháo sò huyết,220,10,5,30
+Bánh mì kẹp chả heo,300,12,10,40
+Cơm chiên mắm ruốc,280,10,10,40
+Bún chả cá hấp,260,14,8,35
+Chè dừa nếp,190,3,2,38
+Thịt heo xào nấm,240,16,10,15
+Bánh ướt trứng chiên,200,8,6,30
+Canh cải cúc nấu thịt bằm,120,6,2,15
+Bánh căn chả cá,220,6,8,30
+Xôi nếp cái hoa vàng,250,5,5,45
+Bún cá mòi,230,12,6,32
+Chè hạt sen long nhãn nếp,190,4,2,38
+Cá kho nước dừa,260,18,12,10
+Bánh tét nhân đậu đỏ,240,5,5,40
+Cơm chiên trứng cút,280,8,10,40
+Bún riêu chay đậu hũ,180,6,3,30
+Cháo sườn non,220,10,6,30
+Bánh mì kẹp thịt heo quay,300,12,10,40
+Canh khoai mỡ nấu thịt,150,6,3,25
+Bánh khoai môn nướng,250,4,10,40
+Bún bò xào măng,260,14,8,35
+Chè đậu đỏ dừa,190,3,2,38
+Thịt bò xào cải thìa,240,16,10,15
+Bánh bèo chả lụa,150,5,3,25
+Canh chua cá diêu hồng,150,12,4,15
+Bánh tráng nướng trứng cút,220,6,8,30
+Xôi lạp xưởng,280,8,10,40
+Bún cá ngừ kho,230,12,6,32
+Cháo cá bống,220,10,5,30
+Bánh mì kẹp bò né,320,12,12,40
+Cơm chiên chả cá,280,10,10,40
+Bún chả cá kho,260,14,8,35
+Chè khoai tía nếp,190,3,2,38
+Thịt heo xào hành tây,240,16,10,15
+Bánh ướt chả bò,200,8,5,30
+Canh rau dền nấu thịt,120,6,2,15
+Bánh căn tôm khô,220,6,8,30
+Xôi đậu xanh nếp,250,6,5,40
+Bún cá thu kho,230,12,6,32
+Cháo tôm nấm,220,10,5,30
+Bánh mì kẹp chả cá nướng,300,12,10,40
+Cơm chiên nấm rơm,260,8,8,40
+Bún chả nướng nem,260,14,8,35
+Chè dừa non nếp,190,3,2,38
+Thịt bò xào cần nước,240,16,10,15
+Bánh ướt chay nấm,180,6,3,30
+Canh cải ngọt nấu thịt bằm,120,6,2,15
+Bánh căn trứng mực,220,6,8,30
+Xôi nếp lá chuối,250,5,5,45
+Bún cá lóc kho,230,12,6,32
+Chè đậu ván nếp,190,3,2,38
+Cá kho mắm nêm,260,18,12,10
+Bánh tét nhân nấm,220,5,4,40
+Cơm chiên tôm trứng,280,10,10,40
+Bún riêu chay măng,180,6,3,30
+Cháo nấm hương,200,6,3,32
+Bánh mì kẹp trứng cút chiên,300,10,12,40
+Canh khoai sọ nấu cá,150,6,3,25
+Bánh khoai tây nướng,250,4,10,40
+Bún bò xào lá lốt,260,14,8,35
+Chè đậu xanh dừa,190,3,2,38
+Cơm chiên tỏi,260,8,8,40
+Bún gỏi dà,230,12,6,32
+Bánh mì kẹp chả trứng,300,12,10,40
+Chè đậu đen nếp,190,4,2,38
+Cá kho tộ măng,250,18,10,15
+Bánh canh chả cá nướng,240,12,8,30
+Canh rau cải ngọt nấu cá,120,8,3,15
+Bánh tráng cuốn chả giò,220,8,6,32
+Xôi nếp đậu đỏ,250,6,5,40
+Bún cá lóc hấp,230,12,6,32
+Cháo cá thu,220,10,5,30
+Bánh mì kẹp thịt bò xào,300,12,10,40
+Cơm chiên trứng muối tôm,280,10,10,40
+Bún chay đậu hũ kho,200,6,5,30
+Chè khoai môn nếp,180,3,2,35
+Thịt heo xào giá đỗ,240,16,10,15
+Bánh ướt chả lụa chay,180,6,3,30
+Canh cải bẹ trắng nấu tôm,120,6,2,15
+Bánh căn trứng tôm,220,6,8,30
+Xôi nếp gừng,250,5,5,45
+Bún cá bống kho,230,12,6,32
+Chè hạt sen nếp,190,4,2,38
+Cá kho lá chanh,260,18,12,10
+Bánh tét nhân đậu xanh,240,5,5,40
+Cơm chiên chả bò,280,10,10,40
+Bún riêu chay tôm khô,180,6,3,30
+Cháo tôm chay,200,6,3,32
+Bánh mì kẹp thịt heo nướng,300,12,10,40
+Canh khoai sọ nấu tôm khô,150,6,3,25
+Bánh khoai lang nướng,220,4,5,40
+Bún bò xào nấm,260,14,8,35
+Chè đậu xanh nha đam nếp,190,3,2,38
+Thịt bò xào cải ngọt,240,16,10,15
+Bánh bèo nhân tôm khô,150,5,3,25
+Canh chua cá bống,150,12,4,15
+Bánh tráng nướng tôm khô,220,6,8,30
+Xôi chiên chả cá,280,8,10,40
+Bún cá basa kho,230,12,6,32
+Cháo nấm rơm chay,200,6,3,32
+Bánh mì kẹp chả cá chiên,300,12,10,40
+Cơm chiên tôm chay,260,8,8,40
+Bún chả cá nướng chay,200,6,5,30
+Chè dừa non hạt sen,190,3,2,38
+Thịt heo xào cải bẹ,240,16,10,15
+Bánh ướt chả heo,200,8,5,30
+Canh rau muống nấu tôm khô,120,6,2,15
+Bánh căn tôm chấy,220,6,8,30
+Xôi nếp cẩm dừa,250,5,6,45
+Bún cá thu nướng,230,12,6,32
+Cháo sườn chay nấm,200,6,3,32
+Bánh mì kẹp trứng muối tôm,300,10,12,40
+Canh cải thìa nấu thịt,120,6,2,15
+Bánh khoai tây chiên chay,250,4,10,35
+Bún bò xào cải chua,260,14,8,35
+Chè đậu đỏ nếp,190,3,2,38
+Thịt bò xào hành cần,240,16,10,15
+Bánh bèo nhân chay,140,4,3,25
+Canh chua măng chay,120,6,2,15
+Bánh tráng cuốn tôm khô,220,8,6,32
+Xôi đậu đen nếp,250,6,5,40
+Bún cá rô kho,230,12,6,32
+Cháo tôm khô chay,200,6,3,32
+Bánh mì kẹp chả lụa nướng,300,12,10,40
+Cơm chiên mực chay,260,8,8,40
+Bún chả nướng chay đậu hũ,200,6,5,30
+Chè kho Brazil,190,3,2,38
+Thịt heo xào nấm rơm chay,220,8,6,30
+Bánh ướt tôm nướng,200,8,5,30
+Canh cải xanh nấu thịt bằm,120,6,2,15
+Bánh căn chay tôm khô,200,5,6,30
+Xôi nếp than dừa,250,5,6,45
+Bún cá lóc chay,200,6,3,32
+Chè đậu ván hạt sen,190,3,2,38
+Cá kho mắm tôm,260,18,12,10
+Bánh tét nhân chay đậu,220,5,4,40
+Cơm chiên chả cá chay,260,8,8,40
+Bún riêu chay đậu phụ,180,6,3,30
+Cháo nấm chay đậu,200,6,3,32
+Bánh mì kẹp chả bò nướng,300,12,10,40
+Canh khoai môn nấu cá,150,6,3,25
+Bánh khoai mì chiên,250,4,10,35
+Bún bò xào giá chay,200,6,5,30
+Chè đậu xanh dừa nếp,190,3,2,38
+Thịt heo kho chay,220,8,6,30
+Bánh bèo nhân tôm chay,140,4,3,25
+Canh chua cá chép chay,120,6,2,15
+Bánh tráng nướng chay tôm,200,5,6,30
+Xôi chiên chay,260,6,8,40
+Bún cá basa chay,200,6,3,32
+Cháo cá nướng chay,200,6,3,32
+Bánh mì kẹp thịt bò nướng,300,12,10,40
+Cơm chiên trứng chay,260,8,8,40
+Bún chả nướng tôm,260,14,8,35
+Chè dừa non nha đam,190,3,2,38
+Thịt bò xào nấm chay,220,8,6,30
+Bánh ướt chay tôm khô,180,6,3,30
+Canh cải bẹ nấu cá,120,6,2,15
+Bánh căn chay mực,200,5,6,30
+Xôi nếp lá dứa dừa,250,5,6,45
+Bún cá thu chay,200,6,3,32
